@@ -1,0 +1,13 @@
+newmtl Distant Land_58946b30-9dc4-468b-a59b-c193454736c0
+Kd 0.196 0.200 0.176
+d 1.000
+newmtl Lifeline 1_dbbde416-653c-4f6f-bbe8-60bcd1ee041c
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Matrix_e095dcdf-1eb9-4e73-9dfe-9f6397acb549
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Screenshot_2022-05-12_at_1447.jpg
+newmtl Hudson_af006bb3-a87b-47fe-9884-2ee5272551e1
+Kd 0.078 0.576 0.745
+d 1.000
